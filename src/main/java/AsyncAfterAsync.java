@@ -18,6 +18,11 @@ public class AsyncAfterAsync {
                 new Shop("shop3"), new Shop("shop4"), new Shop("shop5"),
                 new Shop("shop6"), new Shop("shop7"), new Shop("shop8"));
 
+        /**
+         *  A java program cannot terminate or exit while a normal thread is executing,
+         *  so a leftover thread waiting for never satisfiable event causes problems.
+         *  By contrast marking a thread as daemon means it can be killed on program termination.
+         */
         Executor executor = Executors.newFixedThreadPool(Math.min(100, shops.size()), new ThreadFactory() {
             @Override
             public Thread newThread(Runnable r) {

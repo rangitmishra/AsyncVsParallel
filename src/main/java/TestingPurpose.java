@@ -1,6 +1,7 @@
 public class TestingPurpose {
     private int cosde;
     private String message;
+    private String error;
 
     public int getCosde() {
         return cosde;
@@ -16,5 +17,13 @@ public class TestingPurpose {
 
     public void setMessage(String message) {
         this.message = message;
+    }
+
+    public String getError() {
+        return error;
+    }
+
+    public void setError(String error) {
+        this.error = error;
     }
 }

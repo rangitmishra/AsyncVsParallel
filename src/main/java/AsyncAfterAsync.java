@@ -51,5 +51,6 @@ public class AsyncAfterAsync {
         stopwatch.stop();
         long timeTaken = stopwatch.getTime();
         System.out.println("Time consumed in processing is: " + timeTaken + " milliseconds");
+        System.out.println("Add for test");
     }
 }

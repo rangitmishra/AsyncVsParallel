@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cad4cea-b956-4d68-82c4-56a7f5919b9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestingPurpose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestingPurpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestingPurpose.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -101,9 +100,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/TestingPurpose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="45">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding>
+                <element signature="e#108#109#0" expanded="true" />
                 <element signature="e#136#137#0" expanded="true" />
                 <element signature="e#175#176#0" expanded="true" />
                 <element signature="e#209#210#0" expanded="true" />
@@ -111,6 +111,10 @@
                 <element signature="e#273#274#0" expanded="true" />
                 <element signature="e#319#320#0" expanded="true" />
                 <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -228,7 +232,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550321104238" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550321296807" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -297,7 +301,7 @@
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4007968" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4007968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -311,7 +315,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.46118012" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.46118012" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32921174" />
@@ -427,9 +431,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TestingPurpose.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="45">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding>
+            <element signature="e#108#109#0" expanded="true" />
             <element signature="e#136#137#0" expanded="true" />
             <element signature="e#175#176#0" expanded="true" />
             <element signature="e#209#210#0" expanded="true" />
@@ -437,6 +442,10 @@
             <element signature="e#273#274#0" expanded="true" />
             <element signature="e#319#320#0" expanded="true" />
             <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
           </folding>
         </state>
       </provider>

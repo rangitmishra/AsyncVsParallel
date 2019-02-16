@@ -1,13 +1,14 @@
 public class TestingPurpose {
-    private int cosde;
+    private int code;
     private String message;
+    private String[] erros;
 
-    public int getCosde() {
-        return cosde;
+    public int getCode() {
+        return code;
     }
 
-    public void setCosde(int cosde) {
-        this.cosde = cosde;
+    public void setCode(int code) {
+        this.code = code;
     }
 
     public String getMessage() {
@@ -16,5 +17,13 @@ public class TestingPurpose {
 
     public void setMessage(String message) {
         this.message = message;
+    }
+
+    public String[] getErros() {
+        return erros;
+    }
+
+    public void setErros(String[] erros) {
+        this.erros = erros;
     }
 }
